@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="20590" started-at="2020-05-19T11:33:13Z" finished-at="2020-05-19T11:33:34Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="20590" started-at="2020-05-19T11:33:13Z" finished-at="2020-05-19T11:33:34Z">
+      <class name="org.adacting.AdactExecutable">
+        <test-method status="PASS" signature="test1(java.lang.String, java.lang.String)[pri:0, instance:org.adacting.AdactExecutable@58651fd0]" name="test1" duration-ms="16479" started-at="2020-05-19T07:33:13Z" data-provider="data" finished-at="2020-05-19T07:33:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jananielumalai]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kirish8818]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.adacting.AdactExecutable@58651fd0]" name="test2" duration-ms="2549" started-at="2020-05-19T07:33:30Z" data-provider="data1" finished-at="2020-05-19T07:33:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Paris]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[  2 - Two]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[25/05/2020]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[28/05/2020]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[3 - Three]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="test2(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.adacting.AdactExecutable@58651fd0]" name="test2" duration-ms="1539" started-at="2020-05-19T07:33:32Z" data-provider="data3" finished-at="2020-05-19T07:33:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[janani]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Elumalai]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[no.14 NarayanaSwamy Street,Sholinganallur,Chennai]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[8608306147228844]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[VISA]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[May]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[2021]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[224]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- org.adacting.AdactExecutable -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
